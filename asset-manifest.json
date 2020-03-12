@@ -1,0 +1,15 @@
+{
+  "main.css": "/game-of-life-elm/static/css/main.3ba621fc.chunk.css",
+  "main.js": "/game-of-life-elm/static/js/main.3136d6a1.chunk.js",
+  "main.js.map": "/game-of-life-elm/static/js/main.3136d6a1.chunk.js.map",
+  "runtime~main.js": "/game-of-life-elm/static/js/runtime~main.344063d8.js",
+  "runtime~main.js.map": "/game-of-life-elm/static/js/runtime~main.344063d8.js.map",
+  "vendors~main.js": "/game-of-life-elm/static/js/vendors~main.604c6712.chunk.js",
+  "vendors~main.js.map": "/game-of-life-elm/static/js/vendors~main.604c6712.chunk.js.map",
+  "./service-worker.js": "/game-of-life-elm/./service-worker.js",
+  "favicon.ico": "/game-of-life-elm/favicon.ico",
+  "index.html": "/game-of-life-elm/index.html",
+  "logo.svg": "/game-of-life-elm/logo.svg",
+  "manifest.json": "/game-of-life-elm/manifest.json",
+  "precache-manifest.ba3c2aadc0dd642c602d9c7b915be78e.js": "/game-of-life-elm/precache-manifest.ba3c2aadc0dd642c602d9c7b915be78e.js"
+}
