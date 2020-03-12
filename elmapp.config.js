@@ -1,3 +1,3 @@
 module.exports = {
-    homepage: "https://erichenry.io/game-of-life-elm",
+    homepage: "https://EricHenry.github.io/game-of-life-elm",
 }
