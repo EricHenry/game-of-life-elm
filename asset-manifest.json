@@ -7,9 +7,10 @@
   "vendors~main.js": "/game-of-life-elm/static/js/vendors~main.604c6712.chunk.js",
   "vendors~main.js.map": "/game-of-life-elm/static/js/vendors~main.604c6712.chunk.js.map",
   "./service-worker.js": "/game-of-life-elm/./service-worker.js",
+  "CNAME": "/game-of-life-elm/CNAME",
   "favicon.ico": "/game-of-life-elm/favicon.ico",
   "index.html": "/game-of-life-elm/index.html",
   "logo.svg": "/game-of-life-elm/logo.svg",
   "manifest.json": "/game-of-life-elm/manifest.json",
-  "precache-manifest.ba3c2aadc0dd642c602d9c7b915be78e.js": "/game-of-life-elm/precache-manifest.ba3c2aadc0dd642c602d9c7b915be78e.js"
+  "precache-manifest.22d47613c0a70c226c86666a3547f027.js": "/game-of-life-elm/precache-manifest.22d47613c0a70c226c86666a3547f027.js"
 }

@@ -1,5 +1,9 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
+    "revision": "6f14d17d72a1f42f2046f20c8e4128ad",
+    "url": "/game-of-life-elm/CNAME"
+  },
+  {
     "revision": "987da976a8b2a4169346a497ba84749d",
     "url": "/game-of-life-elm/favicon.ico"
   },
